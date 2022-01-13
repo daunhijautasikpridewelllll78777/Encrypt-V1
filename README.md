@@ -1,7 +1,7 @@
 # Encrypt By Wizzly
-git clone https://github.com/MaestroXyz/Encrypt
+git clone https://github.com/MaestroXyz/Encrypt-V1
 
-cd Encrypt
+cd Encrypt-V1
 
 ls
 
